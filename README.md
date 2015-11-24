@@ -1,6 +1,6 @@
 # jstransformer-suitcss
 
-[SuitCSS](https://github.com/suitcss/preprocessor) support for [JSTransformers](http://github.com/jstransformers)
+[SuitCSS](https://github.com/suitcss/preprocessor) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-suitcss/master.svg)](https://travis-ci.org/jstransformers/jstransformer-suitcss)
 [![Coverage Status](https://img.shields.io/coveralls/jstransformers/jstransformer-suitcss/master.svg)](https://coveralls.io/r/jstransformers/jstransformer-suitcss?branch=master)
