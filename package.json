@@ -9,7 +9,6 @@
     "index.js"
   ],
   "dependencies": {
-    "promise": "^7.0.4",
     "suitcss-preprocessor": "^0.5.1"
   },
   "devDependencies": {

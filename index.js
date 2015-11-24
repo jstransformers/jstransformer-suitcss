@@ -1,7 +1,6 @@
 'use strict';
 
 var suitcss = require('suitcss-preprocessor');
-var Promise = require('promise');
 var fs = require('fs');
 var path = require('path');
 
