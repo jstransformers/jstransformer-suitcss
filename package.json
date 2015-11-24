@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "description": "SuitCSS support for JSTransformers",
   "keywords": [
-    "jstransformer",
-    "suitcss"
+    "jstransformer"
   ],
   "files": [
     "index.js"
   ],
+  "dependencies": {
+    "suitcss-preprocessor": "^0.5.1"
+  },
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
   },
@@ -16,10 +18,16 @@
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer"
   },
-  "repository": "jstransformers/jstransformer-suitcss",
-  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
-  "license": "MIT",
-  "dependencies": {
-    "suitcss-preprocessor": "^0.4.0"
-  }
+  "engines": {
+    "node": ">=0.10.36"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstransformers/jstransformer-suitcss.git"
+  },
+  "author": {
+    "name": "JSTransformers Team",
+    "url": "http://github.com/orgs/jstransformers/people"
+  },
+  "license": "MIT"
 }
