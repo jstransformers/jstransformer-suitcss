@@ -20,6 +20,6 @@
   "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
   "license": "MIT",
   "dependencies": {
-    "suitcss-preprocessor": "^0.4.0"
+    "suitcss-preprocessor": "^0.5.1"
   }
 }
