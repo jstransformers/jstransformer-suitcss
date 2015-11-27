@@ -9,7 +9,7 @@
     "index.js"
   ],
   "dependencies": {
-    "suitcss-preprocessor": "^0.6.0"
+    "suitcss-preprocessor": "^0.7.0"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
