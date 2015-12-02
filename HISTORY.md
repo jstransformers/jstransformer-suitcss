@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.0: 2015-12-02
+
+- Updated to `suitcss-preprocessor@^0.8.0`
+
 ## v0.1.1: 2015-11-24
 
 - Update dependencies
