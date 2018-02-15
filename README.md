@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var suitcss = require('jstransformer')(require('jstransformer-suitcss'));
+var suitcss = require('jstransformer')(require('jstransformer-suitcss'))
 
 suitcss.render(':root {--red: #0F0;} body {color: var(--red);}').body
 //=>
