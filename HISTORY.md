@@ -1,8 +1,8 @@
 # Changelog
 
-## v1.0.0: [Unreleased]
+## v1.0.0: 2017-06-11
 
-- Updated to `suitcss-preprocessor@^3.0.0`
+- Updated to `suitcss-preprocessor@^4.0.0`
 
 ## v0.2.0: 2015-12-02
 
