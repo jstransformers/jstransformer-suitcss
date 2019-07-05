@@ -1,0 +1,48 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-order > stylelint > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > postcss-easy-import > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-order > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint > table > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint > doiuse > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint > colorguard > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint > stylehacks > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-suitcss > stylelint > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-order > stylelint > doiuse > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-suitcss > stylelint > doiuse > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-suitcss > stylelint > table > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-order > stylelint > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-suitcss > stylelint > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-order > stylelint > table > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-suitcss > stylelint > colorguard > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-order > stylelint > stylehacks > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-order > stylelint > colorguard > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
+    - suitcss-preprocessor > stylelint-config-suitcss > stylelint-suitcss > stylelint > stylehacks > postcss-reporter > lodash:
+        patched: '2019-07-05T07:47:05.565Z'
