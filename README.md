@@ -1,7 +1,5 @@
 # jstransformer-suitcss
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-suitcss.svg)](https://greenkeeper.io/)
-
 [SuitCSS](https://github.com/suitcss/preprocessor) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-suitcss/master.svg)](https://travis-ci.org/jstransformers/jstransformer-suitcss)
